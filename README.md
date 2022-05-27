@@ -20,7 +20,15 @@ Testing building my resume using HTML and hosting on GitHub pages following [Mic
 
 Follow instructions in [Microsoft Build 2022 Resume Workshop](https://github.com/jlooper/build-resume-workshop) to build your resume.
 
+Activate GitHub pages. Check the build for pages was completed in GitHub actions.
+
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Resources
+
+From [Build 2022](https://mybuild.microsoft.com/en-US/home) session
+
+- [Introduction to JavaScript](https://aka.ms/webdev)
